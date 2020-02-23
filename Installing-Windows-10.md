@@ -17,19 +17,19 @@ This article covers the steps of re-installing, or fresh installing Windows 10 f
 
 2. Click Install Now.
 
-![](Images\Install-2.png)
+![](Images/Install-2.png)
 
 3. Enter your product key if you know it, otherwise click I don't have a product key.
 
-![](Images\Install-3.png)
+![](Images/Install-3.png)
 
 4. Accept the agreement.
 
-![](Images\Install-4.png)
+![](Images/Install-4.png)
 
 5. On the next screen, click Custom.
 
-![](Images\Install-5.png)
+![](Images/Install-5.png)
 
 ## Method 1
 
