@@ -7,4 +7,5 @@ This Wiki is dedicated to providing various guides for common technical queries.
 ## Articles
 * [General Troubleshooting](https://msft.chat/wiki/General-Troubleshooting)
 * [Using the Media Creation Tool](https://msft.chat/wiki/Using-The-Media-Creation-Tool)
+* [Installing Windows 10](https://msft.chat/wiki/Installing-Windows-10)
 * [Reinstalling GPU Drivers](https://msft.chat/wiki/reinstalling-gpu-drivers)
