@@ -13,23 +13,23 @@ This article covers the steps of re-installing, or fresh installing Windows 10 f
 
 1. Select the correct Language, Time and Currency, and Keyboard layout then press Next.
 
-![](https://i.imgur.com/1pAqmYi.png)
+![](Images\Install-1.png)
 
 2. Click Install Now.
 
-![](https://i.imgur.com/5YzuWKo.png)
+![](Images\Install-2.png)
 
 3. Enter your product key if you know it, otherwise click I don't have a product key.
 
-![](https://i.imgur.com/JNSvG4y.png)
+![](Images\Install-3.png)
 
 4. Accept the agreement.
 
-![](https://i.imgur.com/LTsvzWI.png)
+![](Images\Install-4.png)
 
 5. On the next screen, click Custom.
 
-![](https://i.imgur.com/0ap22xh.png)
+![](Images\Install-5.png)
 
 ## Method 1
 
