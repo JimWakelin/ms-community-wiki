@@ -13,7 +13,7 @@ This article covers the steps of re-installing, or fresh installing Windows 10 f
 
 1. Select the correct Language, Time and Currency, and Keyboard layout then press Next.
 
-![](Images\Install-1.png)
+![](Install-1.png)
 
 2. Click Install Now.
 
