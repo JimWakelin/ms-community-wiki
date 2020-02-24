@@ -72,4 +72,4 @@ After this, you will see a screen saying that the Flash Drive is ready. Click fi
 
 2. Once open, move the cursor using the arrow keys to the name of the USB you have inserted and then press Enter.
 
-You will now boot to the Windows 10 Installer. For further guidance, see [Installing Windows 10](https://msft.chat/wiki/installing-windows-10)
+You will now boot to the Windows 10 Installer. For further guidance, see [Installing Windows 10](installing-windows-10)
