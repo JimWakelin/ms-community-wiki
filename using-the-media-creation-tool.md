@@ -64,7 +64,7 @@ You need a **blank** USB with **8+GB of space** for the following steps.
 
     ![](img/using-the-media-creation-tool/downloading.png)
 
-After this, you will see a screen saying that the Flash Drive is ready. Click finish, take out the USB, and insert it into the computer that is not working.
+After this, you will see a screen saying that the Flash Drive is ready. Click finish, eject the USB and then take it out and insert it into the computer that is not working.
 
 #### How to re-install Windows using a USB
 
