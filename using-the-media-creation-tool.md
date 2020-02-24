@@ -68,7 +68,7 @@ After this, you will see a screen saying that the Flash Drive is ready. Click fi
 
 #### How to re-install Windows using a USB
 
-1. Turn on the computer that is not working, and repeatedly press either F12,F11,F10, or F9 depending on your manufacturer to enter the Boot Menu. To find out the key you need to press, search [Your PC's Manufacturer] boot menu key.
+1. Turn on the computer that is not working, and repeatedly press either <kbd>F12</kbd>, <kbd>F11</kbd>, <kbd>F10</kbd>, or <kbd>F9</kbd> depending on your manufacturer to enter the Boot Menu. To find out the key you need to press, search on Google "[PC manufacturer] boot menu key".
 
 2. Once open, move the cursor using the arrow keys to the name of the USB you have inserted and then press Enter.
 
