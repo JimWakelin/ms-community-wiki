@@ -24,7 +24,7 @@ One of the most common solutions to many problems in Windows is reinstalling it.
 
     ![](img/using-the-media-creation-tool/gettingthings.png)
 
-3. This is where you select what you want to do, if you want to **reinstall the Windows installation on this computer** click **Upgrade this PC now** and follow Method 1. If you **want to reinstall Windows on another computer** click **Create installation media** and follow Method 2.
+3. This is where you select what you want to do, if you want to **repair the Windows installation on this computer** click **Upgrade this PC now** and follow Method 1. If you **want to reinstall Windows on another computer** click **Create installation media** and follow Method 2.
 
     ![](img/using-the-media-creation-tool/whatdoyouwanttodo.png)
 
